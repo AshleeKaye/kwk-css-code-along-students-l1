@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: blue;
+  font-size: 100%
+}
+
+
+
+
+.jonExampleClass {
+  
+  
+  font-size: 300%;
+}
